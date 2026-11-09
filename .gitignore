@@ -1,0 +1,37 @@
+# Build artifacts
+/dist/
+/bin/
+*.exe
+*.zip
+*.msi
+*.log
+*.done
+
+# Runtime files
+tarkymappy.log
+prices/prices.local.json
+
+# Game data captured locally (never publish these)
+/Logs/
+/LogsFromGame/
+/Screenshots/
+/Screenshots*/
+
+# IDE / OS
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local config / scratch
+config.json
+*.tmp

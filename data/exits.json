@@ -1,0 +1,1230 @@
+{
+    "factory":  {
+                    "extracts":  [
+                                     {
+                                         "name":  "Med Tent Gate",
+                                         "faction":  "pmc",
+                                         "x":  -17.53,
+                                         "y":  1.99,
+                                         "z":  -61.27
+                                     },
+                                     {
+                                         "name":  "Cellars",
+                                         "faction":  "pmc",
+                                         "x":  73.89,
+                                         "y":  -3.29,
+                                         "z":  -29.08
+                                     },
+                                     {
+                                         "name":  "Gate 3",
+                                         "faction":  "scav",
+                                         "x":  58.71,
+                                         "y":  1.59,
+                                         "z":  60.87
+                                     },
+                                     {
+                                         "name":  "Gate 3",
+                                         "faction":  "pmc",
+                                         "x":  58.43,
+                                         "y":  3.17,
+                                         "z":  63.3
+                                     },
+                                     {
+                                         "name":  "Smugglers\u0027 Passage",
+                                         "faction":  "pmc",
+                                         "x":  48.03,
+                                         "y":  -1.61,
+                                         "z":  -28.86
+                                     },
+                                     {
+                                         "name":  "Courtyard Gate",
+                                         "faction":  "pmc",
+                                         "x":  23.76,
+                                         "y":  1.36,
+                                         "z":  68.94
+                                     },
+                                     {
+                                         "name":  "Camera Bunker Door",
+                                         "faction":  "scav",
+                                         "x":  -15.72,
+                                         "y":  -1.65,
+                                         "z":  40.11
+                                     },
+                                     {
+                                         "name":  "Gate 2",
+                                         "faction":  "pmc",
+                                         "x":  44.89,
+                                         "y":  0.59,
+                                         "z":  -53.48
+                                     },
+                                     {
+                                         "name":  "Office Window",
+                                         "faction":  "scav",
+                                         "x":  17.83,
+                                         "y":  8.73,
+                                         "z":  39.89
+                                     },
+                                     {
+                                         "name":  "Gate 0",
+                                         "faction":  "pmc",
+                                         "x":  -63.67,
+                                         "y":  2.85,
+                                         "z":  55.88
+                                     }
+                                 ],
+                    "transits":  [
+                                     {
+                                         "name":  "Transit to Woods",
+                                         "x":  24.36,
+                                         "y":  2.24,
+                                         "z":  60.22
+                                     },
+                                     {
+                                         "name":  "Transit to Customs",
+                                         "x":  17.34,
+                                         "y":  0.58,
+                                         "z":  -49.62
+                                     },
+                                     {
+                                         "name":  "Transit to The Lab",
+                                         "x":  -27.01,
+                                         "y":  -3.09,
+                                         "z":  -42.75
+                                     }
+                                 ]
+                },
+    "customs":  {
+                    "extracts":  [
+                                     {
+                                         "name":  "Old Gas Station",
+                                         "faction":  "scav",
+                                         "x":  310.71,
+                                         "y":  -1.63,
+                                         "z":  -174.95
+                                     },
+                                     {
+                                         "name":  "Railroad to Reserve",
+                                         "faction":  "scav",
+                                         "x":  489.06,
+                                         "y":  3.83,
+                                         "z":  221.39
+                                     },
+                                     {
+                                         "name":  "Crossroads",
+                                         "faction":  "pmc",
+                                         "x":  -336.33,
+                                         "y":  2.19,
+                                         "z":  -86.39
+                                     },
+                                     {
+                                         "name":  "Administration Gate",
+                                         "faction":  "scav",
+                                         "x":  664.71,
+                                         "y":  2.88,
+                                         "z":  -55.33
+                                     },
+                                     {
+                                         "name":  "Old Road Gate",
+                                         "faction":  "scav",
+                                         "x":  181.77,
+                                         "y":  1.5,
+                                         "z":  214.01
+                                     },
+                                     {
+                                         "name":  "RUAF Roadblock",
+                                         "faction":  "pmc",
+                                         "x":  -10.25,
+                                         "y":  1.92,
+                                         "z":  -138.45
+                                     },
+                                     {
+                                         "name":  "RUAF Roadblock",
+                                         "faction":  "scav",
+                                         "x":  -9.44,
+                                         "y":  1.65,
+                                         "z":  -138.74
+                                     },
+                                     {
+                                         "name":  "Sniper Roadblock",
+                                         "faction":  "scav",
+                                         "x":  15.08,
+                                         "y":  0.14,
+                                         "z":  126.29
+                                     },
+                                     {
+                                         "name":  "Factory Shacks",
+                                         "faction":  "scav",
+                                         "x":  205.59,
+                                         "y":  3.72,
+                                         "z":  3.31
+                                     },
+                                     {
+                                         "name":  "Crossroads",
+                                         "faction":  "scav",
+                                         "x":  -336.18,
+                                         "y":  2.19,
+                                         "z":  -86.27
+                                     },
+                                     {
+                                         "name":  "Warehouse 4",
+                                         "faction":  "scav",
+                                         "x":  341.57,
+                                         "y":  3.55,
+                                         "z":  -25.85
+                                     },
+                                     {
+                                         "name":  "Boiler Room Basement (Co-op)",
+                                         "faction":  "shared",
+                                         "x":  106.97,
+                                         "y":  -4.71,
+                                         "z":  -43.62
+                                     },
+                                     {
+                                         "name":  "Railroad Passage (Flare)",
+                                         "faction":  "pmc",
+                                         "x":  140.63,
+                                         "y":  3.75,
+                                         "z":  -322.83
+                                     },
+                                     {
+                                         "name":  "Railroad to Reserve",
+                                         "faction":  "scav",
+                                         "x":  489.06,
+                                         "y":  3.95,
+                                         "z":  221.39
+                                     },
+                                     {
+                                         "name":  "Railroad to Port",
+                                         "faction":  "scav",
+                                         "x":  -149.11,
+                                         "y":  -0.63,
+                                         "z":  46.68
+                                     },
+                                     {
+                                         "name":  "Gate Near Medblock",
+                                         "faction":  "scav",
+                                         "x":  62.26,
+                                         "y":  2.71,
+                                         "z":  -174.48
+                                     },
+                                     {
+                                         "name":  "ZB-1013",
+                                         "faction":  "pmc",
+                                         "x":  200.98,
+                                         "y":  -1.15,
+                                         "z":  -153.09
+                                     },
+                                     {
+                                         "name":  "ZB-1011",
+                                         "faction":  "pmc",
+                                         "x":  621.5,
+                                         "y":  -2.07,
+                                         "z":  -126.48
+                                     },
+                                     {
+                                         "name":  "Railroad to Tarkov",
+                                         "faction":  "scav",
+                                         "x":  -153.36,
+                                         "y":  2.51,
+                                         "z":  -217.71
+                                     },
+                                     {
+                                         "name":  "Reserve Checkpoint",
+                                         "faction":  "scav",
+                                         "x":  644.88,
+                                         "y":  2.4,
+                                         "z":  126.87
+                                     },
+                                     {
+                                         "name":  "Trailer Park",
+                                         "faction":  "pmc",
+                                         "x":  -316.05,
+                                         "y":  -1.72,
+                                         "z":  -233.13
+                                     },
+                                     {
+                                         "name":  "Dorms V-Ex",
+                                         "faction":  "pmc",
+                                         "x":  181.08,
+                                         "y":  -0.71,
+                                         "z":  213.25
+                                     },
+                                     {
+                                         "name":  "Old Gas Station",
+                                         "faction":  "pmc",
+                                         "x":  310.39,
+                                         "y":  -1.63,
+                                         "z":  -174.12
+                                     },
+                                     {
+                                         "name":  "Passage Between Rocks",
+                                         "faction":  "scav",
+                                         "x":  539.39,
+                                         "y":  11.82,
+                                         "z":  200.34
+                                     },
+                                     {
+                                         "name":  "ZB-1011",
+                                         "faction":  "scav",
+                                         "x":  625.57,
+                                         "y":  -2.72,
+                                         "z":  -127.71
+                                     },
+                                     {
+                                         "name":  "Smugglers\u0027 Boat",
+                                         "faction":  "pmc",
+                                         "x":  -41.51,
+                                         "y":  -12.63,
+                                         "z":  122.67
+                                     },
+                                     {
+                                         "name":  "Trailer Park",
+                                         "faction":  "scav",
+                                         "x":  -315.79,
+                                         "y":  2.55,
+                                         "z":  -231.76
+                                     },
+                                     {
+                                         "name":  "Smugglers\u0027 Bunker (ZB-1012)",
+                                         "faction":  "pmc",
+                                         "x":  462.47,
+                                         "y":  -1.46,
+                                         "z":  -112.25
+                                     }
+                                 ],
+                    "transits":  [
+                                     {
+                                         "name":  "Transit to Reserve",
+                                         "x":  650.64,
+                                         "y":  1.59,
+                                         "z":  124.94
+                                     },
+                                     {
+                                         "name":  "Transit to Factory",
+                                         "x":  354.31,
+                                         "y":  2.31,
+                                         "z":  -190.1
+                                     },
+                                     {
+                                         "name":  "Transit to Interchange",
+                                         "x":  -334.22,
+                                         "y":  2.11,
+                                         "z":  -211.95
+                                     },
+                                     {
+                                         "name":  "Transit to Shoreline",
+                                         "x":  20.94,
+                                         "y":  -0.33,
+                                         "z":  139.61
+                                     }
+                                 ]
+                },
+    "woods":  {
+                  "extracts":  [
+                                   {
+                                       "name":  "ZB-016",
+                                       "faction":  "pmc",
+                                       "x":  -389.16,
+                                       "y":  4.15,
+                                       "z":  11.04
+                                   },
+                                   {
+                                       "name":  "UN Roadblock",
+                                       "faction":  "scav",
+                                       "x":  -535.24,
+                                       "y":  1.43,
+                                       "z":  287.05
+                                   },
+                                   {
+                                       "name":  "Old Railway Depot",
+                                       "faction":  "scav",
+                                       "x":  -517.93,
+                                       "y":  10.67,
+                                       "z":  149.19
+                                   },
+                                   {
+                                       "name":  "Scav House",
+                                       "faction":  "scav",
+                                       "x":  413.69,
+                                       "y":  -12.56,
+                                       "z":  242.17
+                                   },
+                                   {
+                                       "name":  "Eastern Rocks",
+                                       "faction":  "scav",
+                                       "x":  -509.36,
+                                       "y":  23.99,
+                                       "z":  -35.33
+                                   },
+                                   {
+                                       "name":  "Mountain Stash",
+                                       "faction":  "scav",
+                                       "x":  -210.33,
+                                       "y":  31.47,
+                                       "z":  -213.5
+                                   },
+                                   {
+                                       "name":  "Power Line Passage (Flare)",
+                                       "faction":  "pmc",
+                                       "x":  573.99,
+                                       "y":  -1.75,
+                                       "z":  -85.26
+                                   },
+                                   {
+                                       "name":  "Outskirts",
+                                       "faction":  "pmc",
+                                       "x":  349.04,
+                                       "y":  -9.15,
+                                       "z":  358.58
+                                   },
+                                   {
+                                       "name":  "UN Roadblock",
+                                       "faction":  "pmc",
+                                       "x":  -536.12,
+                                       "y":  1.68,
+                                       "z":  286.77
+                                   },
+                                   {
+                                       "name":  "Scav Bunker",
+                                       "faction":  "scav",
+                                       "x":  220.43,
+                                       "y":  20.54,
+                                       "z":  -705.8
+                                   },
+                                   {
+                                       "name":  "RUAF Roadblock",
+                                       "faction":  "scav",
+                                       "x":  -142.25,
+                                       "y":  0.97,
+                                       "z":  422.4
+                                   },
+                                   {
+                                       "name":  "Outskirts",
+                                       "faction":  "scav",
+                                       "x":  347.16,
+                                       "y":  -11.15,
+                                       "z":  360.07
+                                   },
+                                   {
+                                       "name":  "RUAF Gate",
+                                       "faction":  "pmc",
+                                       "x":  -142.5,
+                                       "y":  -2.37,
+                                       "z":  447.58
+                                   },
+                                   {
+                                       "name":  "ZB-014",
+                                       "faction":  "pmc",
+                                       "x":  447.24,
+                                       "y":  -13.46,
+                                       "z":  57.46
+                                   },
+                                   {
+                                       "name":  "Dead Man\u0027s Place",
+                                       "faction":  "scav",
+                                       "x":  195.55,
+                                       "y":  -16.69,
+                                       "z":  259.21
+                                   },
+                                   {
+                                       "name":  "Friendship Bridge (Co-Op)",
+                                       "faction":  "shared",
+                                       "x":  93.17,
+                                       "y":  16.57,
+                                       "z":  -843.98
+                                   },
+                                   {
+                                       "name":  "Boat",
+                                       "faction":  "scav",
+                                       "x":  176.64,
+                                       "y":  -20.72,
+                                       "z":  215.86
+                                   },
+                                   {
+                                       "name":  "Railway Bridge to Tarkov",
+                                       "faction":  "pmc",
+                                       "x":  -730.43,
+                                       "y":  8.7,
+                                       "z":  129.32
+                                   },
+                                   {
+                                       "name":  "Northern UN Roadblock",
+                                       "faction":  "pmc",
+                                       "x":  -557.32,
+                                       "y":  9.32,
+                                       "z":  -67.05
+                                   },
+                                   {
+                                       "name":  "Bridge V-Ex",
+                                       "faction":  "pmc",
+                                       "x":  -485.33,
+                                       "y":  15.58,
+                                       "z":  -504.06
+                                   }
+                               ],
+                  "transits":  [
+                                   {
+                                       "name":  "Transit to Factory",
+                                       "x":  -362.05,
+                                       "y":  1.28,
+                                       "z":  361.18
+                                   },
+                                   {
+                                       "name":  "Transit to Reserve",
+                                       "x":  254.29,
+                                       "y":  -8.71,
+                                       "z":  362.62
+                                   },
+                                   {
+                                       "name":  "Transit to Lighthouse",
+                                       "x":  496.04,
+                                       "y":  -16.73,
+                                       "z":  348.29
+                                   },
+                                   {
+                                       "name":  "Transit to Customs",
+                                       "x":  -150.37,
+                                       "y":  1.11,
+                                       "z":  403.41
+                                   }
+                               ]
+              },
+    "lighthouse":  {
+                       "extracts":  [
+                                        {
+                                            "name":  "Armored Train",
+                                            "faction":  "shared",
+                                            "x":  6.27,
+                                            "y":  13.34,
+                                            "z":  -869.48
+                                        },
+                                        {
+                                            "name":  "Southern Road",
+                                            "faction":  "pmc",
+                                            "x":  -295.8,
+                                            "y":  11.86,
+                                            "z":  420.6
+                                        },
+                                        {
+                                            "name":  "Southern Road Landslide",
+                                            "faction":  "scav",
+                                            "x":  -281.3,
+                                            "y":  11.86,
+                                            "z":  420.8
+                                        },
+                                        {
+                                            "name":  "Path to Shoreline",
+                                            "faction":  "scav",
+                                            "x":  -364.4,
+                                            "y":  28.76,
+                                            "z":  -121.4
+                                        },
+                                        {
+                                            "name":  "Mountain Pass",
+                                            "faction":  "pmc",
+                                            "x":  -188.51,
+                                            "y":  41.31,
+                                            "z":  -64.49
+                                        },
+                                        {
+                                            "name":  "Passage by the Lake",
+                                            "faction":  "pmc",
+                                            "x":  -377.29,
+                                            "y":  27.19,
+                                            "z":  -643.19
+                                        },
+                                        {
+                                            "name":  "Northern Checkpoint",
+                                            "faction":  "pmc",
+                                            "x":  114.67,
+                                            "y":  11.86,
+                                            "z":  -989.46
+                                        },
+                                        {
+                                            "name":  "Hideout Under the Landing Stage",
+                                            "faction":  "scav",
+                                            "x":  133.07,
+                                            "y":  -0.47,
+                                            "z":  286.84
+                                        },
+                                        {
+                                            "name":  "Scav Hideout at the Grotto",
+                                            "faction":  "scav",
+                                            "x":  180.66,
+                                            "y":  1.18,
+                                            "z":  -485.94
+                                        },
+                                        {
+                                            "name":  "Industrial Zone Gates",
+                                            "faction":  "scav",
+                                            "x":  -152.56,
+                                            "y":  12.25,
+                                            "z":  -794.1
+                                        },
+                                        {
+                                            "name":  "Side Tunnel (Co-Op)",
+                                            "faction":  "shared",
+                                            "x":  -68.3,
+                                            "y":  6.83,
+                                            "z":  318.11
+                                        },
+                                        {
+                                            "name":  "Path to Shoreline",
+                                            "faction":  "pmc",
+                                            "x":  -364.4,
+                                            "y":  28.76,
+                                            "z":  -121.4
+                                        }
+                                    ],
+                       "transits":  [
+                                        {
+                                            "name":  "Transit to Shoreline",
+                                            "x":  -338.35,
+                                            "y":  17.54,
+                                            "z":  -165.53
+                                        },
+                                        {
+                                            "name":  "Transit to Reserve",
+                                            "x":  -293.34,
+                                            "y":  15.3,
+                                            "z":  -780.71
+                                        },
+                                        {
+                                            "name":  "Transit to Woods",
+                                            "x":  110.59,
+                                            "y":  6.78,
+                                            "z":  -962.8
+                                        },
+                                        {
+                                            "name":  "Transit to Icebreaker",
+                                            "x":  147.37,
+                                            "y":  0.3,
+                                            "z":  -182.55
+                                        }
+                                    ]
+                   },
+    "shoreline":  {
+                      "extracts":  [
+                                       {
+                                           "name":  "Climber\u0027s Trail",
+                                           "faction":  "pmc",
+                                           "x":  -214.3,
+                                           "y":  -1,
+                                           "z":  -361.8
+                                       },
+                                       {
+                                           "name":  "Admin Basement",
+                                           "faction":  "scav",
+                                           "x":  -256.87,
+                                           "y":  -7.71,
+                                           "z":  -149.78
+                                       },
+                                       {
+                                           "name":  "Tunnel",
+                                           "faction":  "pmc",
+                                           "x":  376.36,
+                                           "y":  -55.94,
+                                           "z":  319.25
+                                       },
+                                       {
+                                           "name":  "Rock Passage",
+                                           "faction":  "pmc",
+                                           "x":  -200.8,
+                                           "y":  -13.35,
+                                           "z":  -358.34
+                                       },
+                                       {
+                                           "name":  "Lighthouse",
+                                           "faction":  "scav",
+                                           "x":  -458.15,
+                                           "y":  -54.29,
+                                           "z":  567.29
+                                       },
+                                       {
+                                           "name":  "Smugglers\u0027 Path (Co-op)",
+                                           "faction":  "shared",
+                                           "x":  -729.4,
+                                           "y":  -26,
+                                           "z":  -255.1
+                                       },
+                                       {
+                                           "name":  "Svetliy Dead End",
+                                           "faction":  "scav",
+                                           "x":  461.36,
+                                           "y":  -52.83,
+                                           "z":  120.6
+                                       },
+                                       {
+                                           "name":  "Path to Lighthouse",
+                                           "faction":  "pmc",
+                                           "x":  448.9,
+                                           "y":  -44.7,
+                                           "z":  -254.6
+                                       },
+                                       {
+                                           "name":  "Ruined Road",
+                                           "faction":  "scav",
+                                           "x":  366.62,
+                                           "y":  -61.13,
+                                           "z":  332.51
+                                       },
+                                       {
+                                           "name":  "CCP Temporary",
+                                           "faction":  "pmc",
+                                           "x":  -855.85,
+                                           "y":  -59.44,
+                                           "z":  476.82
+                                       },
+                                       {
+                                           "name":  "Road to Customs",
+                                           "faction":  "scav",
+                                           "x":  -859.05,
+                                           "y":  -42.07,
+                                           "z":  0.49
+                                       },
+                                       {
+                                           "name":  "East Wing Gym Entrance",
+                                           "faction":  "scav",
+                                           "x":  -296.95,
+                                           "y":  -6.63,
+                                           "z":  -100.89
+                                       },
+                                       {
+                                           "name":  "Road to Customs",
+                                           "faction":  "pmc",
+                                           "x":  -859.05,
+                                           "y":  -42.07,
+                                           "z":  0.49
+                                       },
+                                       {
+                                           "name":  "Railway Bridge",
+                                           "faction":  "pmc",
+                                           "x":  -1025.05,
+                                           "y":  -60.79,
+                                           "z":  297.65
+                                       },
+                                       {
+                                           "name":  "Ruined House Fence",
+                                           "faction":  "scav",
+                                           "x":  477.78,
+                                           "y":  -51.55,
+                                           "z":  -66.83
+                                       },
+                                       {
+                                           "name":  "Pier Boat",
+                                           "faction":  "pmc",
+                                           "x":  -335.89,
+                                           "y":  -66.12,
+                                           "z":  564.14
+                                       },
+                                       {
+                                           "name":  "Mountain Bunker",
+                                           "faction":  "pmc",
+                                           "x":  -390.96,
+                                           "y":  -2.55,
+                                           "z":  -385.72
+                                       },
+                                       {
+                                           "name":  "Road to North V-Ex",
+                                           "faction":  "pmc",
+                                           "x":  -543.13,
+                                           "y":  -16.97,
+                                           "z":  -378.59
+                                       },
+                                       {
+                                           "name":  "Cliff Descent",
+                                           "faction":  "pmc",
+                                           "x":  -196.08,
+                                           "y":  -10.27,
+                                           "z":  -360.04
+                                       }
+                                   ],
+                      "transits":  [
+                                       {
+                                           "name":  "Transit to Lighthouse",
+                                           "x":  416.78,
+                                           "y":  -56.06,
+                                           "z":  -214.15
+                                       },
+                                       {
+                                           "name":  "Transit to Terminal",
+                                           "x":  -965.56,
+                                           "y":  -57.48,
+                                           "z":  373.79
+                                       },
+                                       {
+                                           "name":  "Transit to Labyrinth?",
+                                           "x":  -195.13,
+                                           "y":  -9.83,
+                                           "z":  -82.93
+                                       },
+                                       {
+                                           "name":  "Transit to Icebreaker",
+                                           "x":  -315.7,
+                                           "y":  -63.66,
+                                           "z":  525.71
+                                       }
+                                   ]
+                  },
+    "reserve":  {
+                    "extracts":  [
+                                     {
+                                         "name":  "Armored Train",
+                                         "faction":  "shared",
+                                         "x":  140.83,
+                                         "y":  -3.92,
+                                         "z":  -146.25
+                                     },
+                                     {
+                                         "name":  "Heating Pipe",
+                                         "faction":  "scav",
+                                         "x":  -35.26,
+                                         "y":  -5.15,
+                                         "z":  -180.12
+                                     },
+                                     {
+                                         "name":  "Exit to Woods",
+                                         "faction":  "pmc",
+                                         "x":  36.53,
+                                         "y":  -5.97,
+                                         "z":  -221.56
+                                     },
+                                     {
+                                         "name":  "Hole in the Wall by the Mountains",
+                                         "faction":  "scav",
+                                         "x":  -261.43,
+                                         "y":  -6.34,
+                                         "z":  48.52
+                                     },
+                                     {
+                                         "name":  "Cliff Descent",
+                                         "faction":  "pmc",
+                                         "x":  -9.24,
+                                         "y":  20.93,
+                                         "z":  208.43
+                                     },
+                                     {
+                                         "name":  "Sewer Manhole",
+                                         "faction":  "shared",
+                                         "x":  40.18,
+                                         "y":  -5.12,
+                                         "z":  76.45
+                                     },
+                                     {
+                                         "name":  "D-2",
+                                         "faction":  "pmc",
+                                         "x":  -121.48,
+                                         "y":  -17,
+                                         "z":  172.25
+                                     },
+                                     {
+                                         "name":  "Checkpoint Fence",
+                                         "faction":  "scav",
+                                         "x":  61.97,
+                                         "y":  -4.43,
+                                         "z":  134.31
+                                     },
+                                     {
+                                         "name":  "Bunker Hermetic Door",
+                                         "faction":  "shared",
+                                         "x":  61.92,
+                                         "y":  -5.26,
+                                         "z":  -190.54
+                                     },
+                                     {
+                                         "name":  "Scav Lands (Co-Op)",
+                                         "faction":  "shared",
+                                         "x":  -127.9,
+                                         "y":  -3.28,
+                                         "z":  -142.59
+                                     },
+                                     {
+                                         "name":  "Depot Hermetic Door",
+                                         "faction":  "scav",
+                                         "x":  120.78,
+                                         "y":  -10.27,
+                                         "z":  -120.35
+                                     }
+                                 ],
+                    "transits":  [
+                                     {
+                                         "name":  "Transit to Customs",
+                                         "x":  -195.85,
+                                         "y":  -4.54,
+                                         "z":  -115.66
+                                     },
+                                     {
+                                         "name":  "Transit to Woods",
+                                         "x":  215.99,
+                                         "y":  -6.34,
+                                         "z":  -202.36
+                                     },
+                                     {
+                                         "name":  "Transit to Lighthouse",
+                                         "x":  238.75,
+                                         "y":  -6.25,
+                                         "z":  -124.28
+                                     }
+                                 ]
+                },
+    "interchange":  {
+                        "extracts":  [
+                                         {
+                                             "name":  "Railway Exfil",
+                                             "faction":  "scav",
+                                             "x":  474.57,
+                                             "y":  19.92,
+                                             "z":  -433.74
+                                         },
+                                         {
+                                             "name":  "Saferoom Exfil",
+                                             "faction":  "pmc",
+                                             "x":  -47.73,
+                                             "y":  22.97,
+                                             "z":  44.06
+                                         },
+                                         {
+                                             "name":  "Railway Exfil",
+                                             "faction":  "pmc",
+                                             "x":  474.82,
+                                             "y":  20.92,
+                                             "z":  -433.99
+                                         },
+                                         {
+                                             "name":  "Emercom Checkpoint",
+                                             "faction":  "pmc",
+                                             "x":  -321.56,
+                                             "y":  22.45,
+                                             "z":  266.74
+                                         },
+                                         {
+                                             "name":  "Scav Camp (Co-Op)",
+                                             "faction":  "shared",
+                                             "x":  -97.48,
+                                             "y":  18.12,
+                                             "z":  -73.09
+                                         },
+                                         {
+                                             "name":  "Path to River (Flare)",
+                                             "faction":  "pmc",
+                                             "x":  613.9,
+                                             "y":  27.9,
+                                             "z":  71.3
+                                         },
+                                         {
+                                             "name":  "Emercom Checkpoint",
+                                             "faction":  "scav",
+                                             "x":  -321.56,
+                                             "y":  24.29,
+                                             "z":  266.74
+                                         },
+                                         {
+                                             "name":  "Power Station V-Ex",
+                                             "faction":  "pmc",
+                                             "x":  -302.89,
+                                             "y":  21.65,
+                                             "z":  -367.73
+                                         },
+                                         {
+                                             "name":  "Hole in the Fence",
+                                             "faction":  "pmc",
+                                             "x":  -219.92,
+                                             "y":  13.79,
+                                             "z":  -37.02
+                                         }
+                                     ],
+                        "transits":  [
+                                         {
+                                             "name":  "Transit to Customs",
+                                             "x":  280.26,
+                                             "y":  23.28,
+                                             "z":  435.08
+                                         },
+                                         {
+                                             "name":  "Transit to Streets of Tarkov",
+                                             "x":  271.85,
+                                             "y":  24.1,
+                                             "z":  -453.65
+                                         }
+                                     ]
+                    },
+    "streetsoftarkov":  {
+                            "extracts":  [
+                                             {
+                                                 "name":  "Collapsed Crane",
+                                                 "faction":  "pmc",
+                                                 "x":  216.12,
+                                                 "y":  3.44,
+                                                 "z":  272.7
+                                             },
+                                             {
+                                                 "name":  "Crash Site",
+                                                 "faction":  "pmc",
+                                                 "x":  312.74,
+                                                 "y":  6.8,
+                                                 "z":  405.96
+                                             },
+                                             {
+                                                 "name":  "Damaged House",
+                                                 "faction":  "pmc",
+                                                 "x":  -245.41,
+                                                 "y":  6.17,
+                                                 "z":  344.82
+                                             },
+                                             {
+                                                 "name":  "Cardinal Apartment Complex Parking",
+                                                 "faction":  "scav",
+                                                 "x":  104.84,
+                                                 "y":  0.13,
+                                                 "z":  -161.17
+                                             },
+                                             {
+                                                 "name":  "Entrance to Catacombs",
+                                                 "faction":  "scav",
+                                                 "x":  -249.01,
+                                                 "y":  2.57,
+                                                 "z":  243.8
+                                             },
+                                             {
+                                                 "name":  "Pinewood Basement (Co-Op)",
+                                                 "faction":  "shared",
+                                                 "x":  -114.28,
+                                                 "y":  -2.05,
+                                                 "z":  64.88
+                                             },
+                                             {
+                                                 "name":  "Klimov Shopping Mall Exfil",
+                                                 "faction":  "scav",
+                                                 "x":  -163.82,
+                                                 "y":  1.59,
+                                                 "z":  -5.66
+                                             },
+                                             {
+                                                 "name":  "Stylobate Building Elevator",
+                                                 "faction":  "pmc",
+                                                 "x":  -44.74,
+                                                 "y":  11.04,
+                                                 "z":  -72.15
+                                             },
+                                             {
+                                                 "name":  "Klimov Street (Flare)",
+                                                 "faction":  "pmc",
+                                                 "x":  -263.41,
+                                                 "y":  6.5,
+                                                 "z":  43.19
+                                             },
+                                             {
+                                                 "name":  "Near Kamchatskaya Arch",
+                                                 "faction":  "scav",
+                                                 "x":  259.57,
+                                                 "y":  -3.93,
+                                                 "z":  48.72
+                                             },
+                                             {
+                                                 "name":  "Courtyard",
+                                                 "faction":  "pmc",
+                                                 "x":  -150.51,
+                                                 "y":  2.55,
+                                                 "z":  500.13
+                                             },
+                                             {
+                                                 "name":  "Ventilation Shaft",
+                                                 "faction":  "scav",
+                                                 "x":  -124.13,
+                                                 "y":  3.11,
+                                                 "z":  423.93
+                                             },
+                                             {
+                                                 "name":  "Expo Checkpoint",
+                                                 "faction":  "pmc",
+                                                 "x":  213.12,
+                                                 "y":  -0.74,
+                                                 "z":  -104.96
+                                             },
+                                             {
+                                                 "name":  "Smugglers\u0027 Basement",
+                                                 "faction":  "pmc",
+                                                 "x":  75.99,
+                                                 "y":  -0.6,
+                                                 "z":  50.01
+                                             },
+                                             {
+                                                 "name":  "Sewer River",
+                                                 "faction":  "pmc",
+                                                 "x":  -267.04,
+                                                 "y":  -1.53,
+                                                 "z":  219.48
+                                             },
+                                             {
+                                                 "name":  "Scav Checkpoint",
+                                                 "faction":  "pmc",
+                                                 "x":  211.34,
+                                                 "y":  -8.16,
+                                                 "z":  82.31
+                                             },
+                                             {
+                                                 "name":  "Primorsky Ave Taxi V-Ex",
+                                                 "faction":  "pmc",
+                                                 "x":  -2.19,
+                                                 "y":  3.2,
+                                                 "z":  461.23
+                                             },
+                                             {
+                                                 "name":  "Sewer Manhole",
+                                                 "faction":  "scav",
+                                                 "x":  276.11,
+                                                 "y":  5.36,
+                                                 "z":  345.39
+                                             },
+                                             {
+                                                 "name":  "Basement Entrance",
+                                                 "faction":  "scav",
+                                                 "x":  -249.01,
+                                                 "y":  2.57,
+                                                 "z":  243.8
+                                             }
+                                         ],
+                            "transits":  [
+                                             {
+                                                 "name":  "Transit to Ground Zero",
+                                                 "x":  -258.04,
+                                                 "y":  3.19,
+                                                 "z":  104.69
+                                             },
+                                             {
+                                                 "name":  "Transit to Interchange",
+                                                 "x":  290.55,
+                                                 "y":  4.39,
+                                                 "z":  501.98
+                                             },
+                                             {
+                                                 "name":  "Transit to The Lab",
+                                                 "x":  209.52,
+                                                 "y":  -7.38,
+                                                 "z":  82.4
+                                             }
+                                         ]
+                        },
+    "lab":  {
+                "extracts":  [
+                                 {
+                                     "name":  "Hangar Gate",
+                                     "faction":  "pmc",
+                                     "x":  -170.49,
+                                     "y":  5.54,
+                                     "z":  -218.87
+                                 },
+                                 {
+                                     "name":  "Medical Block Elevator",
+                                     "faction":  "shared",
+                                     "x":  -112.3,
+                                     "y":  -3.11,
+                                     "z":  -344.04
+                                 },
+                                 {
+                                     "name":  "Ventilation Shaft",
+                                     "faction":  "pmc",
+                                     "x":  -145.06,
+                                     "y":  -2.46,
+                                     "z":  -396.83
+                                 },
+                                 {
+                                     "name":  "Cargo Elevator",
+                                     "faction":  "shared",
+                                     "x":  -111.79,
+                                     "y":  5.38,
+                                     "z":  -408.55
+                                 },
+                                 {
+                                     "name":  "Main Elevator",
+                                     "faction":  "shared",
+                                     "x":  -282.69,
+                                     "y":  -2.81,
+                                     "z":  -334.73
+                                 },
+                                 {
+                                     "name":  "Parking Gate",
+                                     "faction":  "pmc",
+                                     "x":  -231.46,
+                                     "y":  6.19,
+                                     "z":  -457.77
+                                 },
+                                 {
+                                     "name":  "Sewage Conduit",
+                                     "faction":  "pmc",
+                                     "x":  -122.89,
+                                     "y":  -3.66,
+                                     "z":  -258.32
+                                 }
+                             ],
+                "transits":  [
+                                 {
+                                     "name":  "Transit to Streets of Tarkov",
+                                     "x":  -170.14,
+                                     "y":  1.18,
+                                     "z":  -420.56
+                                 }
+                             ]
+            },
+    "groundzero":  {
+                       "extracts":  [
+                                        {
+                                            "name":  "Nakatani Basement Stairs",
+                                            "faction":  "shared",
+                                            "x":  -16.12,
+                                            "y":  14.76,
+                                            "z":  335.06
+                                        },
+                                        {
+                                            "name":  "Scav Checkpoint (Co-op)",
+                                            "faction":  "shared",
+                                            "x":  25.22,
+                                            "y":  24.51,
+                                            "z":  -79.54
+                                        },
+                                        {
+                                            "name":  "Tartowers Sales Office",
+                                            "faction":  "pmc",
+                                            "x":  190.8,
+                                            "y":  17.64,
+                                            "z":  133.39
+                                        },
+                                        {
+                                            "name":  "Pinewood Basement (Co-Op)",
+                                            "faction":  "shared",
+                                            "x":  -113.71,
+                                            "y":  -2.93,
+                                            "z":  65.63
+                                        },
+                                        {
+                                            "name":  "Mira Ave (Flare)",
+                                            "faction":  "pmc",
+                                            "x":  218.23,
+                                            "y":  17.99,
+                                            "z":  -38.51
+                                        },
+                                        {
+                                            "name":  "Emercom Checkpoint",
+                                            "faction":  "shared",
+                                            "x":  151.63,
+                                            "y":  24.66,
+                                            "z":  -97.46
+                                        },
+                                        {
+                                            "name":  "Police Cordon V-Ex",
+                                            "faction":  "pmc",
+                                            "x":  -19.51,
+                                            "y":  23.71,
+                                            "z":  114.94
+                                        }
+                                    ],
+                       "transits":  [
+                                        {
+                                            "name":  "Transit to Streets of Tarkov",
+                                            "x":  229.6,
+                                            "y":  16.99,
+                                            "z":  65.36
+                                        }
+                                    ]
+                   }
+}

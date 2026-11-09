@@ -1,0 +1,8 @@
+{
+  "gameBuild": "1.2.5.0.48146",
+  "dataDate": "2026-10-25",
+  "source": "json.tarkov.dev (maps/tasks/items + _en/_ru)",
+  "mapArt": "TarkovTracker/tarkovdata SVG, срез 2024-08",
+  "lighthouseArt": "reemr / re3mr.com Lighthouse v1.7 vertical (CC BY-NC-SA 4.0), bounds калиброваны 2026-10-25",
+  "deferredMaps": ["icebreaker", "the-labyrinth", "terminal"]
+}

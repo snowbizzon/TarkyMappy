@@ -1,0 +1,176 @@
+TarkyMappy — GitHub topics / tags
+=================================
+
+Ready-to-paste GitHub Topics list (Settings -> Topics), comma-separated:
+
+escape-from-tarkov, eft, tarkov, minimap, map-overlay, overlay, quest-helper, farm-helper, game-tools, gaming, ebitengine, golang, go, windows, desktop-app, offline, pve, personal-use, source-available
+
+Notes:
+- GitHub allows up to 20 topics.
+- Topic names must be lowercase, may contain hyphens, and should be short.
+- The list above fits the limit.
+
+Hashtags for posts / releases:
+
+#EscapeFromTarkov #EFT #Tarkov #Minimap #Overlay #QuestHelper #FarmHelper #GoLang #Ebitengine #Windows #GamingTools #SourceAvailable #PVE #Offline
+
+Search keywords (not GitHub topics, but useful in the README):
+
+Tarkov minimap, Tarkov map overlay, Tarkov quest helper, Tarkov farm route, Tarkov loot map, Tarkov exits, Tarkov PvE, EFT overlay, Ebitengine overlay, Go Windows overlay, offline Tarkov map
+
+================================================================================
+ГОТОВЫЙ ПОСТ ДЛЯ ФОРУМА (RU)
+================================================================================
+
+Заголовок (выберите один):
+1. [Софт] TarkyMappy — офлайн-миникарта и помощник квестов для Escape from Tarkov
+2. TarkyMappy: прозрачная миникарта для EFT без чтения памяти игры (Windows)
+
+Текст поста:
+
+---
+Привет! Хочу поделиться проектом **TarkyMappy** — прозрачной клик-сквозь
+миникартой для Escape from Tarkov под Windows 10/11.
+
+Работает офлайн: все карты, выходы, квесты, лут и опасности зашиты в exe.
+Приложение не читает память игры, не внедряется в процесс и не перехватывает
+трафик. Оно смотрит только **имя файла скриншота**, который EFT сохраняет по
+PrtSc, и по координатам из имени определяет карту, позицию и направление
+взгляда.
+
+**Что умеет**
+- 10 карт, многоэтажные подложки (Customs, Factory, Ground Zero, Interchange,
+  Labs, Lighthouse, Reserve, Shoreline, Streets of Tarkov, Woods).
+- Выходы и транзиты: PMC / Scav / общие, с этажами.
+- Опасности: минные поля, снайперские зоны, клейморы/ловушки.
+- Quest Helper: отслеживание квестов вручную и из логов EFT, цели, ключи,
+  двери и ссылки на wiki.
+- Farm Helper: кластеры лута, маршрут от текущей позиции, выбор дальнего выхода.
+- Помощник цен: топ барахолки по ₽/слот, вкладки PvP/PvE, обновление без
+  пересборки.
+- RU/EN интерфейс, настройки в F9, глобальные хоткеи.
+
+**Важно: нужен первый скриншот**
+После спавна в рейде нажмите **PrtSc**. Без первого скриншота приложение не
+знает позицию и не может центрировать карту. Если папка скриншотов
+нестандартная — F9 → Browse → выбрать папку → Apply.
+
+**Хоткеи**
+F2 — цены, F3 — фарм, F4 — квесты, F5/F6 — зум, F7 — скрыть/показать,
+F8 — выход, F9 — настройки, F10 — смена карты, PgUp/PgDn — этажи,
+? в F9 — справка.
+
+**Скриншоты**
+В репозитории лежат 5 превью карты Маяк с разными слоями (выходы, опасности,
+квесты, фарм, всё вместе). При публикации прикрепите их к посту или дайте
+ссылку на папку `docs/screenshots`.
+
+**Скачать / собрать**
+GitHub: https://github.com/<your-account>/TarkyGo
+Releases: https://github.com/<your-account>/TarkyGo/releases
+
+Из исходников: `build_ru.bat` или `build_en.bat` — проверят Go, прогонят тесты
+и соберут `dist\TarkyMappy.exe`. Рядом должна лежать папка `prices\`.
+
+**Про Маяк**
+Маяк **не проверен в живом рейде**: карта пока закрыта для меня по игровой
+прогрессии. Превью и данные Маяка сгенерированы из встроенных данных, а не
+сняты с игры. Пожалуйста, отнеситесь к выравниванию карты, выходам, опасностям
+и квестам Маяка как к непроверенным.
+
+**Лицензия**
+Личное некоммерческое использование. Нельзя продавать, перепродавать,
+монетизировать, брать деньги за доступ или включать в платные сервисы. Карты и
+данные — CC BY-NC-SA 4.0. Проект неофициальный и не связан с Battlestate Games.
+
+Буду рад баг-репортам, замечаниям по картам и проверке Маяка после открытия.
+Спасибо!
+
+#EscapeFromTarkov #EFT #Tarkov #Minimap #Overlay #QuestHelper #FarmHelper #GoLang #Ebitengine #Windows #SourceAvailable #TarkyMappy
+---
+
+Перед публикацией: проверьте правила конкретного форума/раздела. Если самопиар,
+оверлеи или ссылки на сторонние проекты запрещены — не выкладывайте пост или
+согласуйте его с модерацией. Не используйте `@here`/`@everyone` и не спамьте
+по чужим темам.
+
+================================================================================
+ГОТОВЫЙ ПОСТ ДЛЯ DISCORD (RU, до 2000 символов)
+================================================================================
+
+**TarkyMappy — офлайн-миникарта для Escape from Tarkov** 🗺️
+
+Прозрачный клик-сквозь оверлей для Windows 10/11. Не читает память игры, не
+внедряется в процесс и не работает по сети: берёт координаты из **имени
+скриншота** EFT.
+
+**Умеет**
+• 10 карт и этажи
+• выходы и транзиты (PMC / Scav / общие)
+• мины, снайперские зоны, клейморы
+• Quest Helper: квесты, цели, ключи, двери, wiki
+• Farm Helper: маршрут по луту и выбор выхода
+• цены барахолки PvP/PvE
+• RU/EN интерфейс
+
+**Первый запуск**
+Зайдите в рейд и нажмите **PrtSc** — без первого скриншота оверлей не знает
+позицию. Папка скриншотов меняется в F9 → Browse → Apply.
+
+**Хоткеи:** F2 цены · F3 фарм · F4 квесты · F5/F6 зум · F7 скрыть ·
+F8 выход · F9 настройки · F10 карта · PgUp/PgDn этажи · ? справка
+
+**Маяк не проверен в живом рейде** — карта закрыта по прогрессии. Превью
+сгенерированы из данных, а не сняты с игры.
+
+**Скачать:** https://github.com/<your-account>/TarkyGo/releases
+**Исходники:** https://github.com/<your-account>/TarkyGo
+
+Личное некоммерческое использование, без продажи и монетизации. Карты/данные —
+CC BY-NC-SA 4.0. Проект неофициальный, не связан с Battlestate Games.
+
+#EscapeFromTarkov #EFT #Tarkov #Minimap #Overlay #GoLang #Ebitengine #Windows #TarkyMappy
+
+Перед отправкой: проверьте правила сервера. Если самопиар запрещён — не
+отправляйте; лучше спросите разрешение у модерации. Не пингуйте `@here` и
+`@everyone`.
+
+================================================================================
+SHORT DISCORD POST (EN, under 2000 chars)
+================================================================================
+
+**TarkyMappy — offline minimap overlay for Escape from Tarkov** 🗺️
+
+Transparent click-through overlay for Windows 10/11. No game memory access, no
+injection, no network during play. It reads the **screenshot file name** written
+by EFT and derives your position and map.
+
+**Features**
+• 10 maps and multi-floor views
+• PMC / Scav / shared extracts and transits
+• minefields, sniper zones, claymores
+• Quest Helper: quests, objectives, keys, doors, wiki
+• Farm Helper: loot route and exit picker
+• flea prices by slot (PvP / PvE)
+• RU / EN UI
+
+**First launch**
+Enter a raid and press **PrtSc** once — without the first screenshot the overlay
+has no position. Set a non-standard folder in F9 → Browse → Apply.
+
+**Hotkeys:** F2 prices · F3 farm · F4 quests · F5/F6 zoom · F7 hide ·
+F8 quit · F9 settings · F10 map · PgUp/PgDn floors · ? help
+
+**Lighthouse is NOT verified in a live raid** — it is locked by game
+progression; the previews are rendered from data, not gameplay.
+
+**Download:** https://github.com/<your-account>/TarkyGo/releases
+**Source:** https://github.com/<your-account>/TarkyGo
+
+Personal non-commercial use only. No selling or monetization. Maps/data are
+CC BY-NC-SA 4.0. Unofficial, not affiliated with Battlestate Games.
+
+#EscapeFromTarkov #EFT #Tarkov #Minimap #Overlay #GoLang #Ebitengine #Windows #TarkyMappy
+
+Before posting: check the server rules. If self-promotion is not allowed, ask
+the moderators first. Do not ping `@here` or `@everyone`.
